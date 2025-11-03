@@ -1,1 +1,1 @@
-# HTML CSS learn
+# HTML CSS tutorial
