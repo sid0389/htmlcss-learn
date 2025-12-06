@@ -1,0 +1,40 @@
+p{
+    font-family:arial;
+}
+.l1{
+    color:red;
+    text-align:center;
+    font-size:15px;
+    margin-bottom: 0px;
+}
+.l2{
+    font-weight:bold;
+    text-align: center;
+    font-size:20px;
+    margin-top:5px;
+    margin-bottom: 0px;
+}
+.l3{
+    font-weight:bold;
+    text-align: center;
+    font-size:40px;
+    margin-top:5px;
+    margin-bottom:0px;
+}
+.l4{
+    text-align: center;
+    font-size:17px;
+    margin-top:12px;
+    margin-bottom:0px;
+}
+.buy{
+    background-color:rgb(52, 52, 229);
+    color:white;
+    border:none;
+    border-radius:30px;
+    height: 30px;
+    width:50px;
+    font-weight: bold;
+    margin-left:280px;
+    margin-top: 12px;    
+}

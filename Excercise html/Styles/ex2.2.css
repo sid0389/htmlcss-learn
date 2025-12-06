@@ -1,0 +1,30 @@
+.b1{
+    background-color:rgb(255,216,20);
+    color:black;
+    border-radius: 10px;
+    border:none;
+    height:30px;
+    width: 110px;
+    cursor:pointer;
+}
+.b2{
+    background-color:rgb(255,164,20);
+    color:black;
+    border-radius: 10px;
+    border:none;
+    height:30px;
+    width: 110px;
+    cursor:pointer;
+    margin-left:4px;
+}
+.link{ 
+    color:rgb(0,113,133);
+}
+.t{
+    font-weight:bold;
+    font-size:20px;
+}
+.price{
+    color:rgb(0,118,0);
+    font-weight:bold;
+}

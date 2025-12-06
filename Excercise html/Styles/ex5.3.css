@@ -1,0 +1,22 @@
+p{
+    font-family:arial;
+}
+.l1{
+    font-size:30px;
+    margin-bottom:0px;
+}
+.l2{
+    font-size:15px;
+    color:rgba(46, 43, 43, 0.537);
+    margin-left: 3px;
+}
+.l3{
+    color:rgb(41, 136, 41);
+    margin-top:5px;  margin-bottom:0px;
+}
+.l4{
+    margin-top:5px;
+}
+.l5{
+    color:rgb(184, 6, 6);
+}

@@ -1,0 +1,20 @@
+p{
+    font-family:arial;
+}
+.l1{
+    font-weight: bold;
+}
+.l2{
+    color:gray;
+}
+.l3{
+    width:500px;
+    line-height:20px;
+    margin-bottom:0px;
+}
+.l4{
+    color:rgb(20, 168, 217);    
+}
+.l5{
+    margin-top:25px;
+}

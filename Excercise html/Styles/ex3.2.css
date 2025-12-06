@@ -1,0 +1,48 @@
+.b1{
+    background-color:rgb(255,216,20);
+    color:black;
+    border-radius: 10px;
+    border:none;
+    height:30px;
+    width: 110px;
+    cursor:pointer;
+    transition: background-color 0.2s,opacity 0.15s;
+}
+.b1:hover{
+    background-color:rgb(233, 198, 24);
+}
+.b1:active{
+    opacity:0.7;
+}
+.b2{
+    background-color:rgb(255,164,20);
+    color:black;
+    border-radius: 10px;
+    border:none;
+    height:30px;
+    width: 110px;
+    cursor:pointer;
+    margin-left:4px;
+    transition: background-color 0.2s,opacity 0.15s;
+}
+.b2:hover{
+    background-color:rgb(216, 139, 14);
+}
+.b2:active{
+    opacity:0.7;
+}
+.link{ 
+    color:rgb(0,113,133);
+    transition: color 0.15s;
+}
+.link:hover{
+    color:red;
+}
+.t{
+    font-weight:bold;
+    font-size:20px;
+}
+.price{
+    color:rgb(0,118,0);
+    font-weight:bold;
+}

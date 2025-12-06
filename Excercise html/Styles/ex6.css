@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+}
+
+.m {
+    margin-top:20px;
+    margin-left:80px;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 0px;
+}
+
+.n {
+    font-size:25px;
+    font-family: "Montserrat", sans-serif;
+    padding:20px;
+}
+
+.j{
+    text-decoration: underline;
+}
